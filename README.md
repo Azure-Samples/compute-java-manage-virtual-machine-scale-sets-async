@@ -8,8 +8,7 @@ description: "Azure Compute sample for managing virtual machine scale sets with 
 urlFragment: compute-java-manage-virtual-machine-scale-sets-async
 ---
 
-# Getting Started with Compute - Manage Virtual Machine Scale Set Async - in Java #
-
+# Manage Virtual Machine Scale Set Async (Java)
 
   Azure Compute sample for managing virtual machine scale sets with un-managed disks -
    - Create a virtual machine scale set behind an Internet facing load balancer
@@ -39,7 +38,5 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 [http://azure.com/java](http://azure.com/java)
 
 If you don't have a Microsoft Azure subscription you can get a FREE trial account [here](http://go.microsoft.com/fwlink/?LinkId=330212)
-
----
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
